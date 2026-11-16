@@ -46,3 +46,4 @@ Le fichier [`rapport.md`](rapport.md) contient l'étude comparative détaillée.
 ## 7. Conclusion
 
 Le choix de la technologie doit dépendre du besoin métier, du niveau de confiance entre les acteurs, des exigences réglementaires, de la confidentialité et du coût total de fonctionnement. La blockchain doit être considérée comme une option parmi d'autres, et non comme un remplacement automatique des bases de données classiques.
+Ce projet constitue une étude comparative des solutions de stockage et de partage des données dans le secteur financier.
